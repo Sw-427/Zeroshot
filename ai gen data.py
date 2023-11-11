@@ -5,7 +5,7 @@ from openai import OpenAI
 import json
 
 client = OpenAI(
-  api_key='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',
+  api_key='API_Key',
 )
 client.models.list()
 
